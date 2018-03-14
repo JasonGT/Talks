@@ -1,8 +1,0 @@
-namespace Northwind.Application.ViewModels
-{
-    public class CustomerListModel
-    {
-        public string Id { get; set; }
-        public string Name { get; set; }
-    }
-}
